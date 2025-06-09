@@ -16,7 +16,7 @@ pip install pygame
 
 ## 1. Clone or Download Repository
 
-# Clone the repository or download the script file:
+Clone the repository or download the script file:
 
 git clone https://github.com/bharathgandoor/Flappy-Bird.git
 
